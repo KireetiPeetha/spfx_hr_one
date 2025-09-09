@@ -2,7 +2,7 @@
 
 ## Summary
 
-Short summary on functionality and used technologies.
+How to run the project:  After downloading, type the command “npm install” and run the command “gulp serve”, then replace your tenant name in — https://{tenantdomain}/_layouts/workbench.aspx 
 
 [picture of the solution in action, if possible]
 
